@@ -21,7 +21,7 @@ Python - Data Colletion / Wrangling / Analysis / Visualization / API Interaction
 
 SQL    - Core Query Statements / Table Manipulations / Cloud Interactions
 
-Jupyter Notebooks - Analysis / Computation of SQL & Python codes
+Jupyter Notebooks - Analysis / Documentation & Computation of SQL & Python codes
 
 Cognos Analytics - Generate interactive visualizations for Dashboarding
 
