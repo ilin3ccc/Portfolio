@@ -7,6 +7,6 @@ Below are examples of insights generated from drivers.csv file:
 - Top 10 nationalities of F1 drivers
 - Drivers who represented Canada
 - Who are the youngest drivers in F1
-- Who are currently assigned a car number?
+- Current rooster of official drivers and their drive numbers
 
 
