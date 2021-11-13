@@ -4,7 +4,7 @@ With this [SQL-Python-Cloud demonstration](https://github.com/ilin3ccc/Portfolio
 
 Below are examples of insights generated from drivers.csv file:
 
-- Top 10 nationalities of F1 drivers
+- Top 10 nationalities of F1 drivers (visualization included)
 - Drivers who represented Canada
 - Who are the youngest drivers in F1
 - Current roster of official drivers and their drive numbers
