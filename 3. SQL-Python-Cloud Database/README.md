@@ -2,7 +2,7 @@
 
 ## 1. F1 DRIVERS - Exploratory Analysis
 
-With this first [SQL-Python-Cloud demonstration](https://github.com/ilin3ccc/Portfolio/blob/main/3.%20SQL-Python-Cloud%20Database/F1%20DRIVERS.ipynb), we will be looking at drivers.csv from this [dataset](https://www.kaggle.com/rohanrao/formula-1-world-championship-1950-2020). 
+In this [SQL-Python-Cloud demonstration](https://github.com/ilin3ccc/Portfolio/blob/main/3.%20SQL-Python-Cloud%20Database/F1%20DRIVERS.ipynb), we will be looking at drivers.csv from this [dataset](https://www.kaggle.com/rohanrao/formula-1-world-championship-1950-2020). 
 
 Analysis: 
 - Top 10 nationalities of F1 drivers (visualization included)
@@ -10,4 +10,5 @@ Analysis:
 - Who are the youngest drivers in F1
 - Current roster of official drivers and their drive numbers
 - 
-## 1. F1 CONSTRUCTOR - Descriptive Analytics for Better Results
+## 2. F1 CONSTRUCTOR - Descriptive Analytics for Better Results
+
