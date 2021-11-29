@@ -1,8 +1,10 @@
-# 1. F1 DRIVERS - An Exploratory Analysis
+# Formula One - Data Analytics Demonstration
 
-With this [SQL-Python-Cloud demonstration](https://github.com/ilin3ccc/Portfolio/blob/main/3.%20SQL-Python-Cloud%20Database/F1%20DRIVERS.ipynb), we will be exploring a [dataset](https://www.kaggle.com/rohanrao/formula-1-world-championship-1950-2020) containing Formula One's historical data relating to it's drivers, constructors, circuits, laptimes, results, and standings..etc.
+## 1. F1 DRIVERS - An Exploratory Analysis
 
-Below are examples of insights generated from drivers.csv file:
+With this first [SQL-Python-Cloud demonstration](https://github.com/ilin3ccc/Portfolio/blob/main/3.%20SQL-Python-Cloud%20Database/F1%20DRIVERS.ipynb), we will be looking at drivers.csv from this [dataset](https://www.kaggle.com/rohanrao/formula-1-world-championship-1950-2020). 
+
+We generated the following insights:
 
 - Top 10 nationalities of F1 drivers (visualization included)
 - Drivers who represented Canada
