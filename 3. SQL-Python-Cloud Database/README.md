@@ -12,7 +12,7 @@ Analysis:
 
 ## 2. F1 CONSTRUCTOR - Descriptive Analytics for Better Results
 
-In this [Second SQL-Python-Cloud demonstration](https://github.com/ilin3ccc/Portfolio/blob/main/3.%20SQL-Python-Cloud%20Database/F1%20DRIVERS.ipynb), we look at the dataset as an **enterprise**. The ability for companies to know 'what happened?' is the difference between good and bad decision-making. The success of a constructor 
+In this [Second SQL-Python-Cloud demonstration](3. SQL-Python-Cloud Database/F1 CONSTRUCTOR.ipynb), we look at the dataset as an **enterprise**. The ability for companies to know 'what happened?' is the difference between good and bad decision-making. The success of a constructor 
 
 We were able to draw meaningful insights by joining the following csv files:
 
