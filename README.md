@@ -7,11 +7,8 @@ While you are here, please have a look! (updates in progress)
 CONTENTS:
 
 1. Certificate
-2. Excel
-3. SQL-Python-Cloud Database
-
-“The most powerful person in the world is the storyteller. The storyteller sets the vision, values, and agenda of an entire generation that is to come"
-Steve Jobs
+2. Excel 
+3. SQL-Python-Cloud
 
 “A few simple techniques, well presented, with an aim clearly seen, are better than a tangled maze of data whirling in disorganized educational chaos”.
 Bruce Lee
