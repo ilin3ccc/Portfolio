@@ -24,5 +24,5 @@ We can answer important business questions, given the insights generated from th
 
 1) Year 2004 had the highest sales based on historic data. 
 2) EMEA (Europe, Middle-East, and Africa) accounts for 50% of the total sales. 
-3) 'Classic Cars' is highest selling automobile category, while the lowest is 'Trucks and Buses'. 
+3) 'Classic Cars' was the highest selling automobile category, while the lowest was 'Trucks and Buses'. 
 4) In 2004, 'Ships' accounted for the highest selling product category in Canada. 
