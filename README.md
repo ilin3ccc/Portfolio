@@ -9,6 +9,7 @@ CONTENTS:
 1. Certificate
 2. Excel 
 3. SQL-Python-Cloud
+4. Sales Data Project
 
 “A few simple techniques, well presented, with an aim clearly seen, are better than a tangled maze of data whirling in disorganized educational chaos”.
 Bruce Lee
