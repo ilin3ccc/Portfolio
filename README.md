@@ -1,7 +1,7 @@
 Data Analyst Certificate (IBM): https://credentials.edx.org/credentials/f2737d2f9b684da58837f6280b9bd5b1/
 
 Hello and Welcome. My name is Ivan.
-I am a tenacious problem-solver with Supply Chain / Consumer-Packaged-Goods experience. This portfolio is meant to showcase my analytics abilities. 
+I am a tenacious problem-solver with Supply Chain / Construction experience. This portfolio is meant to showcase my analytics abilities. 
 While you are here, please have a look! (updates in progress)
 
 CONTENTS:
