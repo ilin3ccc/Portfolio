@@ -18,7 +18,7 @@ While you are here, please have a look! (updates in progress)
 
 3. **[Formula 1 Project (SQL-Python-Cloud) - Descriptive Analytics](https://github.com/ilin3ccc/Portfolio/tree/main/3.%20SQL-Python-Cloud%20Database)**  
 
-4. **[Machine Learning - Predictive Spend Analysis - Regression Analysis](https://github.com/ilin3ccc/Portfolio/tree/main/4.%20Machine%20Learning%20-%20Regression%20Analysis)**  
+4. **[Machine Learning - Predictive Spend Analysis (Regression)](https://github.com/ilin3ccc/Portfolio/tree/main/4.%20Machine%20Learning%20-%20Regression%20Analysis)**  
 
 ---
 
