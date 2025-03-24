@@ -9,7 +9,7 @@ CONTENTS:
 1. Certificate
 2. Excel 
 3. Formula 1 (SQL-Python-Cloud) - Descriptive Analytics
-4. Machine Learning - Regression Analysis
+4. Machine Learning - Predictive Spend Analysis (Regression)
 
 “A few simple techniques, well presented, with an aim clearly seen, are better than a tangled maze of data whirling in disorganized educational chaos”.
 Bruce Lee
