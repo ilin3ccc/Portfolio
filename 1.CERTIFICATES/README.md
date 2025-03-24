@@ -23,7 +23,6 @@
 
 ## **Procurement Certificate Program - ASCM**
 
-### **Summary:**
 The **ASCM Procurement Certificate** provided in-depth knowledge and skills in procurement operations and strategies. Key learnings include:  
 - **Strategic Sourcing:** Designing and implementing sourcing plans to align with organizational objectives.  
 - **Supplier Management:** Assessing supplier performance, fostering strong relationships, and ensuring consistent delivery.  
