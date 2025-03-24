@@ -10,11 +10,9 @@ While you are here, please have a look! (updates in progress)
 
 ---
 
-## CONTENTS:
+## PORTFOLIO CONTENTS:
 
-1. **Certifications**  
-   - **Data Analyst Professional Certificate - IBM**  
-   - **Procurement Certificate Program - ASCM**  
+1. **Certificates**  
 2. **Excel**  
 3. **Formula 1 (SQL-Python-Cloud) - Descriptive Analytics**  
 4. **Machine Learning - Predictive Spend Analysis (Regression)**  
