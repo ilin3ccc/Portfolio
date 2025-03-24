@@ -1,4 +1,4 @@
-## **1. Data Analyst Professional Certificate - IBM**
+## **Data Analyst Professional Certificate - IBM**
 
 ### **Courses Completed:**
 1) **Data Analytics Basics for Everyone DA0100**  
@@ -21,12 +21,12 @@
 
 ---
 
-## **2. Procurement Certificate Program - ASCM**
+## **Procurement Certificate Program - ASCM**
 
 ### **Summary:**
-The **ASCM Procurement Certificate** equips professionals with essential skills to optimize procurement operations and drive strategic value in supply chains. This program covers:  
-- **Sourcing Strategies:** Develop and implement strategic sourcing plans to align with organizational goals.  
-- **Supplier Management:** Evaluate supplier capabilities, foster strong relationships, and ensure reliable performance.  
-- **Contract Negotiations:** Master negotiation techniques to secure favorable terms and mitigate risks.  
-- **Performance Metrics:** Use data-driven approaches to assess procurement efficiency and supplier performance.  
-- **Sustainable and Ethical Sourcing:** Incorporate sustainability and ethics into procurement practices to meet modern business standards.  
+The **ASCM Procurement Certificate** provided in-depth knowledge and skills in procurement operations and strategies. Key learnings include:  
+- **Strategic Sourcing:** Designing and implementing sourcing plans to align with organizational objectives.  
+- **Supplier Management:** Assessing supplier performance, fostering strong relationships, and ensuring consistent delivery.  
+- **Negotiation Techniques:** Developing effective negotiation skills to secure contracts and manage risks.  
+- **Performance Metrics:** Utilizing data-driven methods to evaluate procurement efficiency and supplier performance.  
+- **Sustainable and Ethical Practices:** Incorporating sustainable and ethical considerations into procurement processes.
