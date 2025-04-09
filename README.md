@@ -12,13 +12,13 @@ While you are here, please have a look! (This portfolio evolves alongside my gro
 
 ---
 
-## Portfolio Contents  
+## Contents  
 - **[Certificates](https://github.com/ilin3ccc/Portfolio/tree/main/1.CERTIFICATES)**  
 - **[Excel Analytics](https://github.com/ilin3ccc/Portfolio/tree/main/2.%20Excel)**  
 - **[Descriptive Analytics - Formula 1 Project (SQL, Python, Cloud)](https://github.com/ilin3ccc/Portfolio/tree/main/3.%20SQL-Python-Cloud%20Database)**  
-- **[Machine Learning - Predictive Spend Analysis (Regression)](https://github.com/ilin3ccc/Portfolio/tree/main/4.%20Machine%20Learning%20-%20Regression%20Analysis)**  
-- **Machine Learning - Supplier Segmentation: Performance/Behaviour/Risk (Clustering)** *(Link to be added once finalized)*  
-- **Machine Learning - Classification Project (Coming Soon)**  
+- **[Machine Learning - Regression - Predictive Spend Analysis](https://github.com/ilin3ccc/Portfolio/tree/main/4.%20Machine%20Learning%20-%20Regression%20Analysis)**  
+- **Machine Learning - Clustering - Supplier Segmentation: Performance/ Behaviour/ Risk (Clustering)** *(Link to be added once finalized)*  
+- **Machine Learning - Classification - SCM Project (Coming Soon)**  
 
 ---
 
