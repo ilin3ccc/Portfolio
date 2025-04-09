@@ -6,7 +6,7 @@
 
 Hello and Welcome. My name is Ivan.  
 I am a tenacious problem-solver with Supply Chain, Industrial, Construction, and CPG experience. This portfolio is meant to showcase my analytics abilities.  
-While you are here, please have a look! (updates in progress)
+While you are here, please have a look! (This portfolio evolves alongside my growth as a professional.)
 
 ---
 
@@ -21,6 +21,6 @@ While you are here, please have a look! (updates in progress)
 4. **[Machine Learning - Predictive Spend Analysis (Regression)](https://github.com/ilin3ccc/Portfolio/tree/main/4.%20Machine%20Learning%20-%20Regression%20Analysis)**  
 
 ---
-
+## Vision: 
 > “A few simple techniques, well presented, with an aim clearly seen, are better than a tangled maze of data whirling in disorganized educational chaos.”  
 > – Bruce Lee
