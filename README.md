@@ -27,3 +27,6 @@ While you are here, please have a look! (This portfolio evolves alongside my gro
 > – Bruce Lee  
 
 ---
+## License
+This project is licensed under the [Creative Commons BY-NC License](https://creativecommons.org/share-your-work/cclicenses/).
+
