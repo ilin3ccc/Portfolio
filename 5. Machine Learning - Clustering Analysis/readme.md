@@ -4,9 +4,9 @@
 This [project](https://github.com/ilin3ccc/Portfolio/blob/main/5.%20Machine%20Learning%20-%20Clustering%20Analysis/onlineshop2024_clustering.ipynb) uses clustering techniques to derive actionable insights into supplier performance, spend behaviors, and risk management. By analyzing supplier data, we aim to enhance procurement strategies and streamline supply chain operations. 
 
 Explore the key insights through interactive Tableau dashboards:  
-- [Supplier Performance Bubble Chart]([https://public.tableau.com/your_bubble_chart_url](https://public.tableau.com/app/profile/ivan.lin5838/viz/SupplierPerformanceSegmentation-ClusteringBubble/Sheet1))  
-- [Spend Behavior Dashboard]([https://public.tableau.com/your_spend_dashboard_url](https://public.tableau.com/app/profile/ivan.lin5838/viz/SpendBehaviourAnalysis-BarGraphs/Dashboard1))  
-- [Supplier Risk Heatmap]([https://public.tableau.com/your_heatmap_url](https://public.tableau.com/app/profile/ivan.lin5838/viz/SupplierRiskAssessment-Heatmap/Sheet1))  
+- [Supplier Performance Bubble Chart]([https://public.tableau.com/your_bubble_chart_url](https://public.tableau.com/app/profile/ivan.lin5838/viz/SupplierPerformanceSegmentation-ClusteringBubble/Sheet1)  
+- [Spend Behavior Dashboard]([https://public.tableau.com/your_spend_dashboard_url](https://public.tableau.com/app/profile/ivan.lin5838/viz/SpendBehaviourAnalysis-BarGraphs/Dashboard1)  
+- [Supplier Risk Heatmap]([https://public.tableau.com/your_heatmap_url](https://public.tableau.com/app/profile/ivan.lin5838/viz/SupplierRiskAssessment-Heatmap/Sheet1)  
 
 ## Key Highlights  
 
