@@ -18,7 +18,7 @@ Tableau (Public) Visualization: [Spend Behavior Dashboard](https://public.tablea
 ### Supplier Risk Assessment  
 - **Purpose**: Evaluate shipping statuses (including canceled transactions) to manage supplier risks effectively.  
 - **Outcome**: Suppliers categorized into Low, Medium, and High-risk profiles with corresponding mitigation strategies.  
-Tableau (Public) Visualization: [Supplier Risk Heatmap](https://public.tableau.com/app/profile/ivan.lin5838/viz/SupplierRiskAssessment-Heatmap/Sheet1)
+Tableau (Public) Visualization: [Supplier Risk Treemap](https://public.tableau.com/app/profile/ivan.lin5838/viz/SupplierRiskAssessment-Heatmap/Sheet1)
 
 ### Practical Application  
 This project aligns with enterprise objectives by consolidating analyses across subdivisions, offering a cohesive and strategic view of supplier management. Recommendations are tailored for procurement teams to address performance gaps, reduce costs, and mitigate risks.
