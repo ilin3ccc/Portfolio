@@ -16,9 +16,9 @@ While you are here, please have a look! (This portfolio evolves alongside my gro
 - **[Certificates](https://github.com/ilin3ccc/Portfolio/tree/main/1.CERTIFICATES)**  
 - **[Excel Analytics](https://github.com/ilin3ccc/Portfolio/tree/main/2.%20Excel)**  
 - **[Formula 1 Project (Python-SQL-Cloud) - Descriptive Analytics ](https://github.com/ilin3ccc/Portfolio/tree/main/3.%20SQL-Python-Cloud%20Database)**  
-- **[Machine Learning - Regression - Predictive Spend Analysis](https://github.com/ilin3ccc/Portfolio/tree/main/4.%20Machine%20Learning%20-%20Regression%20Analysis)**  
-- **[Machine Learning - Clustering - Supplier Segmentation: Performance, Behaviour, and Risk](https://github.com/ilin3ccc/Portfolio/tree/main/5.%20Machine%20Learning%20-%20Clustering%20Analysis)**
-- **Machine Learning - Classification - SCM Project (Coming Soon)**  
+- **[Machine Learning (Regression): Predictive Spend Analysis](https://github.com/ilin3ccc/Portfolio/tree/main/4.%20Machine%20Learning%20-%20Regression%20Analysis)**  
+- **[Machine Learning (Clustering): Supplier Segmentation: Performance, Behaviour, and Risk](https://github.com/ilin3ccc/Portfolio/tree/main/5.%20Machine%20Learning%20-%20Clustering%20Analysis)**
+- **Machine Learning (Classification): SCM Project (Coming Soon)**  
 
 ---
 
